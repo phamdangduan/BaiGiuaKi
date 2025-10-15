@@ -19,8 +19,11 @@
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-
         </activity>
+
+        <!-- THÊM DÒNG NÀY -->
+        <activity android:name=".ResultActivity" />
+
     </application>
 
 </manifest>
